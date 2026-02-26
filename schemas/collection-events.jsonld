@@ -1,0 +1,6 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Latest Auctions",
+  "url": "https://www.grafeauction.com/events/latest"
+}
