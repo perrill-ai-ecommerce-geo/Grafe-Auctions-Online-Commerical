@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Grafe Auction",
+  "url": "https://www.grafeauction.com/",
+  "telephone": "+1-800-328-5920",
+  "address": {
+    "@type": "PostalAddress",
+    "postOfficeBoxNumber": "338",
+    "addressLocality": "Stewartville",
+    "addressRegion": "MN",
+    "postalCode": "55976",
+    "addressCountry": "US"
+  }
+}
