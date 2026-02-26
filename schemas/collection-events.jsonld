@@ -1,6 +1,46 @@
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "Latest Auctions",
-  "url": "https://www.grafeauction.com/events/latest"
+  "@id": "https://www.grafeauction.com/events/latest#webpage",
+  "name": "Auctions and Events",
+  "description": "Browse Grafe Auction online auctions and event listings, including featured, latest, upcoming, and popular auctions.",
+  "url": "https://www.grafeauction.com/events/latest",
+  "isPartOf": {
+    "@id": "https://www.grafeauction.com/#website"
+  },
+  "about": {
+    "@id": "https://www.grafeauction.com/#organization"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "@id": "https://www.grafeauction.com/events/latest#itemlist",
+    "name": "Auction event collections",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Featured auctions",
+        "url": "https://www.grafeauction.com/events/featured"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Latest auctions",
+        "url": "https://www.grafeauction.com/events/latest"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Upcoming auctions",
+        "url": "https://www.grafeauction.com/events/upcoming"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Popular auctions",
+        "url": "https://www.grafeauction.com/events/popular"
+      }
+    ]
+  },
+  "inLanguage": "en-US"
 }
