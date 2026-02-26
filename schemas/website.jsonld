@@ -1,6 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
+  "@id": "https://www.grafeauction.com/#website",
   "name": "Grafe Auction",
-  "url": "https://www.grafeauction.com/"
+  "url": "https://www.grafeauction.com/",
+  "publisher": {
+    "@id": "https://www.grafeauction.com/#organization"
+  },
+  "inLanguage": "en-US"
 }
