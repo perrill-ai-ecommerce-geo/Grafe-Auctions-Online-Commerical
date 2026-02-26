@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Commercial Auction and Liquidation Services",
+  "provider": {
+    "@type": "Organization",
+    "name": "Grafe Auction",
+    "url": "https://www.grafeauction.com/"
+  },
+  "areaServed": "US",
+  "serviceType": [
+    "Online auctions",
+    "Commercial liquidation auctions"
+  ]
+}
