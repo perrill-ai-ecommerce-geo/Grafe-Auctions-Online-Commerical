@@ -1,15 +1,23 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
+  "@id": "https://www.grafeauction.com/#service-commercial-auctions",
   "name": "Commercial Auction and Liquidation Services",
+  "description": "Auction and liquidation services for commercial assets, including online auctions for industrial equipment and business-related assets.",
   "provider": {
-    "@type": "Organization",
-    "name": "Grafe Auction",
-    "url": "https://www.grafeauction.com/"
+    "@id": "https://www.grafeauction.com/#organization"
   },
-  "areaServed": "US",
+  "url": "https://www.grafeauction.com/sell-with-grafe-auction",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
   "serviceType": [
     "Online auctions",
     "Commercial liquidation auctions"
+  ],
+  "audience": [
+    { "@type": "Audience", "audienceType": "Buyers" },
+    { "@type": "Audience", "audienceType": "Sellers" }
   ]
 }
