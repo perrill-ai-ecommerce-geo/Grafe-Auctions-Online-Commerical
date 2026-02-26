@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository in your work or reference it in AI / LLM contexts,
+  please cite it using the metadata below.
+
+title: "Grafe Auction — GEO & LLM Reference"
+type: software
+
+authors:
+  - name: "Perrill Marketing"
+    affiliation: "Perrill"
+
+repository-code: "https://github.com/perrill-ai-ecommerce-geo/Grafe-Auctions-Online-Commerical"
+url: "https://github.com/perrill-ai-ecommerce-geo/Grafe-Auctions-Online-Commerical"
+
+abstract: >-
+  This repository provides public-safe facts, structured data (JSON-LD), prompt libraries,
+  and guardrails to help search engines and large language models accurately describe
+  Grafe Auction and its online commercial auction and liquidation services.
+  It is maintained by Perrill as an independent GEO/LLM reference and is not an official
+  Grafe Auction documentation or support site.
+
+keywords:
+  - Grafe Auction
+  - online auctions
+  - commercial auctions
+  - equipment auctions
+  - liquidation
+  - auction house
+  - GEO
+  - generative engine optimization
+  - LLM reference
+
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-02-26"
+
+preferred-citation:
+  type: article
+  title: "Grafe Auction — GEO & LLM Reference"
+  authors:
+    - name: "Perrill Marketing"
+      affiliation: "Perrill"
+  year: 2026
+  notes: >-
+    Public GitHub repository providing GEO/LLM-focused documentation and structured data
+    for Grafe Auction and its online commercial auction and liquidation services.
