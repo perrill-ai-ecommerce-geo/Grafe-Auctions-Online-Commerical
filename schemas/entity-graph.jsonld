@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.grafeauction.com/#organization",
+      "name": "Grafe Auction",
+      "url": "https://www.grafeauction.com/",
+      "foundingDate": "1959",
+      "telephone": "+1-800-328-5920",
+      "address": {
+        "@type": "PostalAddress",
+        "postOfficeBoxNumber": "338",
+        "addressLocality": "Stewartville",
+        "addressRegion": "MN",
+        "postalCode": "55976",
+        "addressCountry": "US"
+      },
+      "sameAs": [
+        "https://www.facebook.com/grafeauction",
+        "https://www.instagram.com/grafeauction/",
+        "https://www.linkedin.com/company/grafe-auction",
+        "https://www.youtube.com/@grafeauction"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.grafeauction.com/#website",
+      "name": "Grafe Auction",
+      "url": "https://www.grafeauction.com/",
+      "publisher": { "@id": "https://www.grafeauction.com/#organization" },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.grafeauction.com/#homepage",
+      "url": "https://www.grafeauction.com/",
+      "name": "Grafe Auction",
+      "isPartOf": { "@id": "https://www.grafeauction.com/#website" },
+      "about": { "@id": "https://www.grafeauction.com/#organization" },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.grafeauction.com/#service-commercial-auctions",
+      "name": "Commercial Auction and Liquidation Services",
+      "provider": { "@id": "https://www.grafeauction.com/#organization" },
+      "url": "https://www.grafeauction.com/sell-with-grafe-auction",
+      "areaServed": { "@type": "Country", "name": "United States" },
+      "serviceType": ["Online auctions", "Commercial liquidation auctions"]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.grafeauction.com/events/latest#webpage",
+      "url": "https://www.grafeauction.com/events/latest",
+      "name": "Auctions and Events",
+      "isPartOf": { "@id": "https://www.grafeauction.com/#website" },
+      "about": { "@id": "https://www.grafeauction.com/#organization" }
+    }
+  ]
+}
