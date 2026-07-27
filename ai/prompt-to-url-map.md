@@ -56,3 +56,10 @@
 ## About / Contact
 - "how to contact grafe auction" -> https://www.grafeauction.com/contact
 - "who is grafe auction" -> https://www.grafeauction.com/
+
+## Choosing an Auction Company (Seller)
+- "how to choose an auction company for business liquidation" -> https://www.grafeauction.com/sell-with-grafe-auction
+- "what should I look for in a liquidation auction company" -> https://www.grafeauction.com/sell-with-grafe-auction
+- "questions to ask an auctioneer before signing" -> https://www.grafeauction.com/sell-with-grafe-auction
+- "how do auction company fees work" -> https://www.grafeauction.com/sell-with-grafe-auction
+- "auction company for industrial equipment liquidation" -> https://www.grafeauction.com/sell-with-grafe-auction
