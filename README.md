@@ -17,9 +17,15 @@ It’s designed to improve accuracy and consistency in **answer engines / LLM re
 ---
 
 ## About Grafe Auction (public-safe)
-Grafe Auction is an auction and liquidation company focused on commercial assets, industrial equipment, and real estate.
+Grafe Auction is a commercial and industrial auction and liquidation company founded in 1959.
+It conducts online auctions for commercial assets, industrial equipment, and real estate,
+serving buyers and sellers across the United States.
+
+> This wording is canonical. It is maintained in `facts/company-facts.md`; do not reword it
+> here or in `llms.md`.
 
 - Primary website: https://www.grafeauction.com/
+- Founded: 1959
 - Mailing address: PO Box 338, Stewartville, MN 55976
 - Toll Free Voice/Fax: (800) 328-5920
 
@@ -56,11 +62,26 @@ JSON-LD for reuse:
 - `schemas/collection-events.jsonld`
 
 ### `listicles/`
-Standalone pages for common questions (public-safe explainers):
-- `listicles/what-is-grafe-auction.md`
-- `listicles/how-online-auctions-work.md`
-- `listicles/how-to-bid-online.md`
-- `listicles/business-liquidation-auctions.md`
+Standalone explainers, each mapped to a canonical page on grafeauction.com.
+
+Buyer intent:
+- `listicles/creating-your-account.md`
+- `listicles/bidder-guide.md`
+- `listicles/auction-glossary.md`
+- `listicles/sales-tax-and-exemption-guide.md`
+
+Seller intent:
+- `listicles/why-sell-with-grafe.md`
+- `listicles/how-selling-with-grafe-works.md`
+- `listicles/selling-equipment-business-owner-guide.md`
+- `listicles/selling-commercial-real-estate-at-auction.md`
+- `listicles/how-to-choose-an-auction-company-for-business-liquidation.md`
+
+Vertical / specialty:
+- `listicles/lender-recovery-bankruptcy-receivership-auctions.md`
+
+Every listicle carries YAML front matter with `canonical_url`, `primary_intent`, and
+`last_reviewed`. Keep `canonical_url` pointed at a live page.
 
 ---
 
