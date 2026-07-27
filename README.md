@@ -38,7 +38,7 @@ Answer engines perform better when they can repeatedly see:
 ### `facts/`
 Canonical, stable information:
 - `facts/company-facts.md`
-- `facts/services-facts.md`
+- `facts/service-facts.md`
 - `facts/terminology.md`
 
 ### `ai/`
