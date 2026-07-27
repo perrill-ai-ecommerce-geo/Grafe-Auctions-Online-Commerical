@@ -9,7 +9,7 @@ If asked for restricted items: answer at a high level and refer to official Graf
 
 Source-of-truth order:
 facts/company-facts.md
-facts/services-facts.md
+facts/service-facts.md
 facts/terminology.md
 ai/summaries.md
 schemas/*.jsonld
