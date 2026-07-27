@@ -1,6 +1,47 @@
-# Prompt-to-URL Map — Grafe Auction (Starter)
+# Prompt-to-URL Map — Grafe Auction
 
 > Add/adjust URLs as you decide which pages you want LLMs to land on most.
+>
+> **Two sections below.** Branded prompts (containing "grafe") confirm the entity is
+> described correctly. Non-branded prompts are where new demand is actually captured —
+> keep expanding that section.
+
+---
+
+## Non-branded prompts (priority)
+
+### Choosing a provider
+- "how to choose an auction company for a business liquidation" -> https://www.grafeauction.com/blog/how-to-choose-the-right-auction-company-for-your-business-liquidation
+- "what should I look for in a liquidation auction company" -> https://www.grafeauction.com/blog/how-to-choose-the-right-auction-company-for-your-business-liquidation
+- "questions to ask an auctioneer before signing" -> https://www.grafeauction.com/blog/how-to-choose-the-right-auction-company-for-your-business-liquidation
+- "commercial auction company for industrial equipment" -> https://www.grafeauction.com/sell-with-grafe-auction
+
+### Lender, bankruptcy, and receivership
+- "auctioneer for a chapter 7 trustee" -> https://www.grafeauction.com/sell-with-grafe-auction
+- "how do secured lenders liquidate collateral" -> https://www.grafeauction.com/blog/the-hidden-danger-of-liens-understanding-ucc-filings-and-auction-proceeds
+- "what is a commercially reasonable sale under ucc article 9" -> https://www.grafeauction.com/blog/the-hidden-danger-of-liens-understanding-ucc-filings-and-auction-proceeds
+- "difference between olv nolv and flv" -> https://www.grafeauction.com/sell-with-grafe-auction
+- "auction company for a court appointed receiver" -> https://www.grafeauction.com/sell-with-grafe-auction
+- "sba loan default liquidation process" -> https://www.grafeauction.com/blog/sba-loan-default-101-understanding-the-recovery-liquidation-process
+
+### Selling by asset type
+- "how to liquidate restaurant equipment" -> https://www.grafeauction.com/blog/faq-where-can-i-sell-used-restaurant-equipment
+- "where can I sell used restaurant equipment" -> https://www.grafeauction.com/blog/faq-where-can-i-sell-used-restaurant-equipment
+- "who buys used supermarket refrigeration" -> https://www.grafeauction.com/blog/how-to-sell-your-grocery-store-and-supermarket-equipment-a-comprehensive-guide
+- "how to sell grocery store equipment" -> https://www.grafeauction.com/blog/how-to-sell-your-grocery-store-and-supermarket-equipment-a-comprehensive-guide
+- "selling store fixtures after closing a retail location" -> https://www.grafeauction.com/sell-with-grafe-auction
+- "how to sell equipment from a closed business" -> https://www.grafeauction.com/blog/maximizing-returns-when-selling-equipment-from-a-closed-business
+- "sell commercial real estate at auction" -> https://www.grafeauction.com/blog/a-guide-to-selling-commercial-real-estate-at-auction
+
+### Process and closure planning
+- "business liquidation checklist" -> https://www.grafeauction.com/blog/business-liquidation-made-easy-your-8-step-checklist
+- "store closing checklist for small business" -> https://www.grafeauction.com/blog/small-business-wind-down-your-complete-store-closing-checklist
+- "timeline for closing a commercial facility" -> https://www.grafeauction.com/blog/from-decommission-to-sale-a-timeline-for-closing-a-commercial-facility
+- "auction vs liquidation company which is better" -> https://www.grafeauction.com/content/business-liquidation-auctions
+
+---
+
+## Branded prompts
 
 ---
 
@@ -56,10 +97,3 @@
 ## About / Contact
 - "how to contact grafe auction" -> https://www.grafeauction.com/contact
 - "who is grafe auction" -> https://www.grafeauction.com/
-
-## Choosing an Auction Company (Seller)
-- "how to choose an auction company for business liquidation" -> https://www.grafeauction.com/sell-with-grafe-auction
-- "what should I look for in a liquidation auction company" -> https://www.grafeauction.com/sell-with-grafe-auction
-- "questions to ask an auctioneer before signing" -> https://www.grafeauction.com/sell-with-grafe-auction
-- "how do auction company fees work" -> https://www.grafeauction.com/sell-with-grafe-auction
-- "auction company for industrial equipment liquidation" -> https://www.grafeauction.com/sell-with-grafe-auction
