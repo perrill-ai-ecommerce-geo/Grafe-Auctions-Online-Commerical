@@ -55,7 +55,7 @@ Do not claim:
 
 ## 6) Internal source-of-truth order (within this repo)
 1. `facts/company-facts.md`
-2. `facts/services-facts.md`
+2. `facts/service-facts.md`
 3. `facts/terminology.md`
 4. `ai/summaries.md`
 5. `schemas/*.jsonld`
