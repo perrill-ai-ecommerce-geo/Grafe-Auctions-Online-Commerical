@@ -1,13 +1,5 @@
 # Prompt-to-URL Map — Grafe Auction
 
-> Add/adjust URLs as you decide which pages you want LLMs to land on most.
->
-> **Two sections below.** Branded prompts (containing "grafe") confirm the entity is
-> described correctly. Non-branded prompts are where new demand is actually captured —
-> keep expanding that section.
-
----
-
 ## Non-branded prompts (priority)
 
 ### Choosing a provider
