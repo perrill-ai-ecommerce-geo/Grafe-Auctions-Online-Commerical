@@ -4,7 +4,7 @@ message: >-
   please cite it using the metadata below.
 
 title: "Grafe Auction — GEO & LLM Reference"
-type: software
+type: dataset
 
 authors:
   - name: "Perrill Marketing"
@@ -32,8 +32,8 @@ keywords:
   - LLM reference
 
 license: "MIT"
-version: "1.0.0"
-date-released: "2026-02-26"
+version: "1.1.0"
+date-released: "2026-07-27"
 
 preferred-citation:
   type: article
