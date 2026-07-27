@@ -12,5 +12,15 @@ facts/company-facts.md
 facts/service-facts.md
 facts/terminology.md
 ai/summaries.md
+ai/qa.md
+ai/prompt-to-url-map.md
 schemas/*.jsonld
+llms.md
+listicles/*.md
 README.md
+
+Where two files disagree, the one listed earlier governs.
+
+Also in this repo:
+listicles/ - explainer pages, each mapped to a canonical grafeauction.com URL
+ai/prompt-to-url-map.md - maps common user questions to the intended landing page
